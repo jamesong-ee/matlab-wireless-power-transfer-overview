@@ -7,7 +7,9 @@ This project models and simulates a wireless power transfer (WPT) system using L
 ## Features
 
 - **Resonant Frequency Calculation**
-  - Based on circuit parameters \( f = \frac{1}{2\pi\sqrt{LC}} \)
+  - Based on circuit parameters:  
+**f = 1 / (2π√(LC))**
+
 
 - **Frequency Response Analysis**
   - Output voltage and phase plotted across a frequency sweep from 60 kHz to 300 kHz
@@ -25,7 +27,8 @@ This project models and simulates a wireless power transfer (WPT) system using L
 
 ## Simulation Snapshots
 
-*(Insert waveform screenshots or .png exported from `.fig` here if you’d like)*
+![image](https://github.com/user-attachments/assets/a2b7348d-c1af-4f42-89d2-23b7303cd98b)
+
 
 ---
 
