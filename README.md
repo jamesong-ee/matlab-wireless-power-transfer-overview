@@ -36,7 +36,7 @@ This project models and simulates a wireless power transfer (WPT) system using L
 
 - `WPT_Trial1.m` – Full MATLAB code for simulation and analysis
 - `TimeDomainVoltageWaveform_Trial1.fig` – Time-domain voltage plot at resonance
-- `EECS150_Project.pdf` – Project write-up detailing background, theory, methods, and results
+- `WPT_Documentation.pdf` – Project write-up detailing background, theory, methods, and results
 
 ---
 
